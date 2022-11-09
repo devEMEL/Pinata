@@ -1,0 +1,14 @@
+{
+  "name": "pinata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@pinata/sdk": "^2.1.0"
+  }
+}
